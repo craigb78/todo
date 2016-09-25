@@ -13,7 +13,7 @@ GET /todolists
 GET /todolist/{id}
 - Get a todolist by id
 - Http status code is 200 OK or 404 NOT FOUND
-- 
+
 POST /todolist
 - POST a JSON document containing a todo list and zero or more items
 - Http status code is 202 ACCEPTED
